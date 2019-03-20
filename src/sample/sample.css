@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: pink;
+}
+
+.label{
+
+    -fx-font-size:20;
+    -fx-text-fill:red;
+
+}
+
+.button{
+    -fx-background-color:gray;
+}
+
